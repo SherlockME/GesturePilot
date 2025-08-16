@@ -1,7 +1,8 @@
 Gesture Commands: 
- * Open palm -> Play  
-* Fist -> Pause  * 
-Two fingers (index & middle) -> Volume Up  *
- Ring and pinky fingers -> Volume Down  *
- Pinky only -> Next Video  *
- All fingers except pinky -> Previous Video
+"Open Palm      -> Play",
+        "Fist           -> Stop",
+        "Two Fingers    -> Mute/Unmute",
+        "Index Only     -> Volume Up",
+        "Pinky Only     -> Volume Down",
+        "Thumb + Pinky  -> Next Video",
+        "Four Fingers   -> Prev Video"
