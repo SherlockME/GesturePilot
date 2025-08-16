@@ -1,0 +1,7 @@
+Gesture Commands: 
+ * Open palm -> Play  
+* Fist -> Pause  * 
+Two fingers (index & middle) -> Volume Up  *
+ Ring and pinky fingers -> Volume Down  *
+ Pinky only -> Next Video  *
+ All fingers except pinky -> Previous Video
